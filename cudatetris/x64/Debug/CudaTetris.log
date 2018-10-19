@@ -1,0 +1,17 @@
+﻿  Raytracing.cpp
+c:\users\blockchainvirus\dropbox\code\cudatetris\cudatetris\vec3.h(67): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\blockchainvirus\dropbox\code\cudatetris\cudatetris\vec3.h(145): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\blockchainvirus\dropbox\code\cudatetris\cudatetris\vec3.h(174): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\blockchainvirus\dropbox\code\cudatetris\cudatetris\material.h(74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\blockchainvirus\dropbox\code\cudatetris\cudatetris\hitablelist.h(21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\blockchainvirus\dropbox\code\cudatetris\cudatetris\raytracing.cpp(19): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\blockchainvirus\dropbox\code\cudatetris\cudatetris\raytracing.cpp(20): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\blockchainvirus\dropbox\code\cudatetris\cudatetris\raytracing.cpp(21): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\blockchainvirus\dropbox\code\cudatetris\cudatetris\raytracing.cpp(23): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\blockchainvirus\dropbox\code\cudatetris\cudatetris\raytracing.cpp(38): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\blockchainvirus\dropbox\code\cudatetris\cudatetris\raytracing.cpp(51): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\blockchainvirus\dropbox\code\cudatetris\cudatetris\raytracing.cpp(52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\blockchainvirus\dropbox\code\cudatetris\cudatetris\raytracing.cpp(52): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\blockchainvirus\dropbox\code\cudatetris\cudatetris\raytracing.cpp(153): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     Creating library C:\Users\blockchainvirus\Dropbox\Code\CudaTetris\x64\Debug\CudaTetris.lib and object C:\Users\blockchainvirus\Dropbox\Code\CudaTetris\x64\Debug\CudaTetris.exp
+  CudaTetris.vcxproj -> C:\Users\blockchainvirus\Dropbox\Code\CudaTetris\x64\Debug\CudaTetris.exe
